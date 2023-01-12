@@ -4,6 +4,11 @@ import java.io.File;
 
 public class FileCreation {
 	
+	private void karthik() {
+
+		System.out.println("karthik git");
+	}
+	
 	public static void main(String[] args) {
 		
 	
